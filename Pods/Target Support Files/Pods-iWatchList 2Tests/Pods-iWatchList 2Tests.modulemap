@@ -1,0 +1,6 @@
+framework module Pods_iWatchList_2Tests {
+  umbrella header "Pods-iWatchList 2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
